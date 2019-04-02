@@ -1,0 +1,27 @@
+{
+  "name": "faker-extensions",
+  "version": "1.0.0",
+  "description": "Some extra functionality for FakerJS that I personally find useful.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mourasman/faker-extensions.git"
+  },
+  "keywords": [
+    "faker",
+    "extesions",
+    "string",
+    "random",
+    "fake",
+    "data"
+  ],
+  "author": "Ricardo Moura <mail@ricardomoura.eu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mourasman/faker-extensions/issues"
+  },
+  "homepage": "https://github.com/mourasman/faker-extensions#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}

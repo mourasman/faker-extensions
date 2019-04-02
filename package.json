@@ -1,6 +1,6 @@
 {
   "name": "faker-extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some extra functionality for FakerJS that I personally find useful.",
   "main": "index.js",
   "repository": {
